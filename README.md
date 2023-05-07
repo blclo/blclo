@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Carolina+Lopez;Studying+MSc.+Autonomous+Systems+Eng.;@DTU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Carolina+Lopez!;Studying+MSc.+Autonomous+Systems+Eng.;@DTU)](https://git.io/typing-svg)
 
 🔭 I work as a part-time Student Software Engineer at GitHub´s Test Frameworks team.
 
