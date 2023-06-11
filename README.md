@@ -1,12 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Carolina+Lopez!;Studying+MSc.+Autonomous+Systems+Eng.;@DTU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Carolina+Lopez!;Studying+MSc.+Autonomous+Systems;Engineering+AI!)](https://git.io/typing-svg)
 
 🔭 I work as a part-time Student Software Engineer at GitHub´s Test Frameworks team.
 
 🌱 Currently learning about Deep Learning in Computer Vision and Responsible AI.
 
-👯 I am a people's person.
+👯 I am a people person.
 
 😄 Always trying to learn and grow. 
+
+📫 Reach me at carolina.lopmos@gmail.com
 <!--
 **blclo/blclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
