@@ -6,8 +6,6 @@
 
 👯 I am a people person.
 
-😄 Resilient and determinant. 
-
 📫 Reach me at carolina.lopmos@gmail.com
 <!--
 **blclo/blclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
