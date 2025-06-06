@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Carolina+Lopez!;)](https://git.io/typing-svg)
 
-🔭 I work as a part-time Software Engineer at GitHub´s Test Frameworks team.
+🔭 I work as a Software Engineer at GitHub´s Copilot team.
 
-🌱 Always learning - but now about Multi-modal models, Generative and Responsible AI.
+🌱 Trying to make a positive impact in the world.
 
-👯 I am a people person.
+👯 Enjoy connecting and collaborating with people.
 
 📫 Reach me at carolina.lopmos@gmail.com
 <!--
